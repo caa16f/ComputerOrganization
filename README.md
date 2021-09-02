@@ -13,7 +13,10 @@ Everything else is either fully functional or implemented with problems
 
 Project 2 :  
 
+Shows the cycles that the MIPS processor takes to complete commands. 
 
 
+Project 3 :
+Simulates the MIPS Cache 
 
 
