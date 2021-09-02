@@ -1,0 +1,5 @@
+	.text
+	nor $t0, $t1, $t2
+	nor $t3, $t4 , $0
+	nor $s0, $s1, $s2
+	.data

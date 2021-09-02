@@ -1,0 +1,6 @@
+	.text
+	la $s0, TEST
+	add $t0 , $t1 , $t2	
+	TEST: add $t6, $t7, $t5	
+	.data
+GRAB:	.space	16

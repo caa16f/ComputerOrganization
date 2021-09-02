@@ -1,0 +1,6 @@
+	.text
+	LUI $t0, 2
+	LUI $t3 , $0
+	LUI $s2, -2
+	.data
+GRAB:	.space	16

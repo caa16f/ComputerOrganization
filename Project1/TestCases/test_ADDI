@@ -1,0 +1,6 @@
+	.text
+	addi $t0, $t1, 12
+	addi $t3, $t4, $0
+	addi $t4, $s2, -1
+	.data
+GRAB:	.space	12
