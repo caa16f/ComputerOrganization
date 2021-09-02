@@ -1,0 +1,7 @@
+	.text
+	andi $s1, $s0, 4
+	andi $s1, $0, 4
+	andi $s1, $t1, -4
+	halt
+	.data
+DATA1:	.word	12

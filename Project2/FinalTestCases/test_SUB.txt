@@ -1,0 +1,6 @@
+	.text
+	sub $t0, $t1, $t2
+	sub $t3, $t4 , $0
+	halt
+	.data
+GRAB:	.word	12

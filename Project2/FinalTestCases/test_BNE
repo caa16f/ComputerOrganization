@@ -1,0 +1,9 @@
+	.text
+	bne $t0, $t0, TEST
+	bne $t3, $s2, TEST
+	bne $s2, $s2, GRAB
+	noop
+TEST: add $t6, $t7, $t5	
+	halt
+	.data
+GRAB:	.word	16

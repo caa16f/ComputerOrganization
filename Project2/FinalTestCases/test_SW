@@ -1,0 +1,7 @@
+	.text
+	sw $t0, 4($s0)
+	sw $t3, 0($t1)
+	sw $s2, -4($s2)
+	halt
+	.data
+GRAB:	.word	16

@@ -1,0 +1,4 @@
+	.text
+	halt
+	.data
+DATA1:	.word	12

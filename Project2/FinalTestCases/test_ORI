@@ -1,0 +1,7 @@
+	.text
+	ori $t0, $t1, 2
+	ori $t3, $t4 , $0
+	ori $s2, $t4, -2
+	halt
+	.data
+GRAB:	.word	16

@@ -1,0 +1,8 @@
+	.text
+	noop
+	noop
+	noop
+	noop
+	halt
+	.data
+DATA1:	.word	12
